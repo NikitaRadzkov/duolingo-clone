@@ -231,6 +231,7 @@ CLERK_ADMIN_IDS="user_xxxxxxxxxxxxxxxxxxxxxxxxxxxxx, user_xxxxxxxxxxxxxxxxxxxxxx
 In the same terminal, run the following command to execute the seed script:
 
 ```bash
+npm run db:push
 npm run db:prod
 ```
 
